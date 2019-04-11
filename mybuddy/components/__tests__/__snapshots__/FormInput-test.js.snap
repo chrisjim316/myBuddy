@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateTimePicker snapshot form input renders without errors 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "alignSelf": "center",
+      "backgroundColor": "transparent",
+      "borderBottomWidth": 1,
+      "borderColor": "#D9D5DC",
+      "borderLeftWidth": 0,
+      "borderRadius": undefined,
+      "borderRightWidth": 0,
+      "borderTopWidth": 0,
+      "borderWidth": undefined,
+      "flexDirection": "row",
+      "marginLeft": 2,
+      "marginTop": 10,
+      "opacity": 1,
+      "width": "90%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "left": 0,
+        "opacity": 1,
+        "paddingBottom": undefined,
+        "paddingTop": undefined,
+        "position": "absolute",
+        "right": 0,
+        "top": 18,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#575757",
+          "fontSize": 17,
+          "paddingRight": 5,
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        float={true}
+        style={
+          Array [
+            Object {
+              "fontSize": 17,
+            },
+            Object {
+              "fontSize": 15,
+              "lineHeight": 30,
+            },
+          ]
+        }
+      >
+        Test
+      </Text>
+    </Text>
+  </View>
+  <TextInput
+    allowFontScaling={true}
+    editable={true}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    placeholderTextColor="#575757"
+    style={
+      Object {
+        "color": "#000",
+        "flex": 1,
+        "fontSize": 17,
+        "height": 50,
+        "paddingBottom": 7,
+        "paddingLeft": 5,
+        "paddingRight": 5,
+        "paddingTop": 3,
+        "top": 8,
+      }
+    }
+    underlineColorAndroid="rgba(0,0,0,0)"
+    value="null"
+  />
+</View>
+`;
+
+exports[`Form input renders with errors form input renders with errors 1`] = `
+Array [
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "backgroundColor": "transparent",
+        "borderBottomWidth": 1,
+        "borderColor": "#ed2f2f",
+        "borderLeftWidth": 0,
+        "borderRadius": undefined,
+        "borderRightWidth": 0,
+        "borderTopWidth": 0,
+        "borderWidth": undefined,
+        "flexDirection": "row",
+        "marginLeft": 2,
+        "marginTop": 10,
+        "opacity": 1,
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "left": 0,
+          "opacity": 1,
+          "paddingBottom": undefined,
+          "paddingTop": undefined,
+          "position": "absolute",
+          "right": 0,
+          "top": 18,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#575757",
+            "fontSize": 17,
+            "paddingRight": 5,
+            "paddingTop": 5,
+          }
+        }
+      >
+        <Text
+          float={true}
+          style={
+            Array [
+              Object {
+                "fontSize": 17,
+              },
+              Object {
+                "fontSize": 15,
+                "lineHeight": 30,
+              },
+            ]
+          }
+        >
+          Test
+        </Text>
+      </Text>
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      editable={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor="#575757"
+      style={
+        Object {
+          "color": "#000",
+          "flex": 1,
+          "fontSize": 17,
+          "height": 50,
+          "paddingBottom": 7,
+          "paddingLeft": 5,
+          "paddingRight": 5,
+          "paddingTop": 3,
+          "top": 8,
+        }
+      }
+      underlineColorAndroid="rgba(0,0,0,0)"
+      value="null"
+    />
+  </View>,
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000",
+          "fontFamily": "System",
+          "fontSize": 16,
+        },
+        Object {
+          "alignSelf": "center",
+          "marginTop": 10,
+          "width": "90%",
+        },
+        Object {
+          "color": "red",
+        },
+      ]
+    }
+    uppercase={false}
+  />,
+]
+`;

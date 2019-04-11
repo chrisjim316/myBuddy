@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My title rendering My title bar renders correctly 1`] = `
+<Text
+  numberOfLines={1}
+  style={
+    Array [
+      Object {
+        "color": "#000",
+        "fontFamily": "System",
+        "fontSize": 17,
+        "fontWeight": "700",
+        "marginLeft": undefined,
+        "paddingLeft": 4,
+        "paddingTop": 1,
+        "textAlign": "center",
+      },
+      Object {
+        "color": "black",
+        "fontSize": 25,
+        "marginBottom": 5,
+        "marginTop": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000",
+        "fontFamily": "System",
+        "fontSize": 16,
+      }
+    }
+    uppercase={false}
+  >
+    test
+  </Text>
+</Text>
+`;
