@@ -5,15 +5,6 @@ Structure
 - `mybuddy` - the app (React Native)
 - `mybuddy-api` - the server (Firebase Cloud Functions)
 
-# Contributors
-- Habib Rehman <habib-ur.rehman@kcl.ac.uk>
-- Chow-Ching (Chris) Jim <chow-ching.jim@kcl.ac.uk>
-- Oluwafemi (Femi) Oladipo <oluwafemi.oladipo@kcl.ac.uk>
-- Spenser Smart <spenser.smart@kcl.ac.uk>
-- Akshat Sood <akshat.sood@kcl.ac.uk>
-- Salich (Sal) Memet Efenti Chousein <salich.memet_efenti_chousein@kcl.ac.uk>
-- Eugene Fong <eugene.fong@kcl.ac.uk>
-
 ## Development
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
@@ -32,3 +23,12 @@ git clone https://github.com/HR/mybuddy.git && cd mybuddy
 cd mybuddy && npm install && npm start
 ```
 
+
+## Contributors
+- Habib Rehman <habib-ur.rehman@kcl.ac.uk>
+- Chow-Ching (Chris) Jim <chow-ching.jim@kcl.ac.uk>
+- Oluwafemi (Femi) Oladipo <oluwafemi.oladipo@kcl.ac.uk>
+- Spenser Smart <spenser.smart@kcl.ac.uk>
+- Akshat Sood <akshat.sood@kcl.ac.uk>
+- Salich (Sal) Memet Efenti Chousein <salich.memet_efenti_chousein@kcl.ac.uk>
+- Eugene Fong <eugene.fong@kcl.ac.uk>
