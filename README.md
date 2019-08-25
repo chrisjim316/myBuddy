@@ -14,19 +14,19 @@ Structure
 Clone the repo
 
 ```bash
-git clone https://github.com/HR/mybuddy.git && cd mybuddy
+git clone https://github.com/chrisjim316/myBuddy.git && cd myBuddy
 ```
 
 ### Run
 
 ```bash
-cd mybuddy && npm install && npm start
+npm install && npm start
 ```
 
 
 ## Contributors
-- Habib Rehman <habib-ur.rehman@kcl.ac.uk>
 - Chow-Ching (Chris) Jim <chow-ching.jim@kcl.ac.uk>
+- Habib Rehman <habib-ur.rehman@kcl.ac.uk>
 - Oluwafemi (Femi) Oladipo <oluwafemi.oladipo@kcl.ac.uk>
 - Spenser Smart <spenser.smart@kcl.ac.uk>
 - Akshat Sood <akshat.sood@kcl.ac.uk>
