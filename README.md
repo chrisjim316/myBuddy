@@ -32,3 +32,5 @@ npm install && npm start
 - Akshat Sood <akshat.sood@kcl.ac.uk>
 - Salich (Sal) Memet Efenti Chousein <salich.memet_efenti_chousein@kcl.ac.uk>
 - Eugene Fong <eugene.fong@kcl.ac.uk>
+
+## [LIVE DEMO](https://github.com/chrisjim316/Personal-Portfolio-/blob/master/Images/mybuddy.gif?raw=true)    -     [SOURCE CODE](https://github.com/chrisjim316/myBuddy/tree/master/mybuddy)
